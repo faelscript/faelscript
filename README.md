@@ -36,7 +36,3 @@ Apaixonado por programação, inovação e pelas infinitas possibilidades que a 
 &nbsp;<a href="https://www.instagram.com/faael.jpg/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-
-### GitHub Activity
-
-![Snake animation](https://github.com/faelscript/faelscript/blob/output/github-contribution-grid-snake.svg)
