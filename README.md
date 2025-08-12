@@ -15,5 +15,5 @@ Minha trajetória envolve:
 ## 💻 Tecnologias e Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de Desenvolvimento
+## 🛠️ Ferramentas de Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
