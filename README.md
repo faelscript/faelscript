@@ -8,7 +8,7 @@ Desenvolvo pequenos projetos com **HTML, CSS e JavaScript**, explorando diferent
 Desenvolvedor em formação e apaixonado por transformar ideias em projetos funcionais. <br> 
 Minha trajetória envolve:
 
-- 🎓 Graduando em **Ciência da Computação** na Faculdade Anhanguera
+- 🎓 Graduando em **Ciência da Computação** na **Faculdade Anhanguera**
 - 💻 Estudando **Java** e desenvolvimento voltado para **E-commerce**
 - 🤍 Apaixonado por tecnologia, design e inovação
 
