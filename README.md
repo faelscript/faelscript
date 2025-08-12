@@ -12,7 +12,7 @@ Minha trajetória envolve:
 - 💻 Estudando **Java** e desenvolvimento voltado para **E-commerce**
 - 🤍 Apaixonado por tecnologia, design e inovação
 
-## 📊 Estatísticas
+## ⭐ GitHub Stats
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=faelscript&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelscript&layout=compact&theme=dark" alt="Top Languages" width="40%"/>
