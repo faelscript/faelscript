@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🤍 Olá, me chamo Rafael!
 
-<!--
-**faelscript/faelscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia e sempre em busca de novos aprendizados. <br> 
+Desenvolvo pequenos projetos com HTML, CSS e JavaScript, explorando diferentes áreas da programação!
 
-Here are some ideas to get you started:
+## Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor em formação e apaixonado por transformar ideias em projetos funcionais. <br> 
+Minha trajetória envolve:
+
+- 🎓 Graduando em Ciência da Computação na Faculdade Anhanguera
+- 💻 Estudando Java e desenvolvimento voltado para E-commerce
+- 🤍 Apaixonado por tecnologia, design e inovação
+
+## 💻 Tecnologias e Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
