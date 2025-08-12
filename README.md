@@ -14,8 +14,8 @@ Minha trajetória envolve:
 
 ## 📊 Estatísticas
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=faelscript&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelscript&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faelscript&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelscript&layout=compact&theme=dark" alt="Top Languages" width="40%"/>
 </div>
 
 ## 💻 Tecnologias e Linguagens
