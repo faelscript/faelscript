@@ -1,4 +1,4 @@
-# 🤍 Olá, me chamo Rafael!
+# 👋 Olá, me chamo Rafael!
 
 Apaixonado por tecnologia e sempre em busca de novos aprendizados. <br> 
 Desenvolvo pequenos projetos com **HTML, CSS e JavaScript**, explorando diferentes áreas da programação!
